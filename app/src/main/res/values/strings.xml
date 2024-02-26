@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BasicsCodelab</string>
+    <string name="show_less">Show Less</string>
+    <string name="show_more">Show More</string>
+    <string name="description">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam aliquam dapibus elit, nec feugiat ante mollis in. Cras dapibus tristique nulla quis rhoncus. Maecenas ut placerat mi. Nulla vitae scelerisque diam. Morbi velit risus, lobortis dignissim luctus non, consectetur quis felis. Mauris rhoncus tincidunt bibendum. Quisque sit amet placerat mi, aliquet euismod libero. Maecenas viverra molestie enim nec dapibus. Morbi placerat, ex eget iaculis pharetra, magna nisi porttitor nulla, quis vulputate lacus metus in augue. Donec tempus laoreet sem, cursus accumsan neque blandit ac. Fusce porttitor feugiat ex et iaculis. Vestibulum nibh neque, vulputate eu scelerisque accumsan, aliquam non purus.</string>
+</resources>
